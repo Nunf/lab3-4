@@ -1,7 +1,7 @@
 <?php
 // Налаштування для математичної функції h
-const MATH_FUNC_H_ARG_A 			= 4.26; 		// значення агрументу a
-const MATH_FUNC_H_ARG_B 			= 7.29; 		// значення агрументу b
+const MATH_FUNC_H_ARG_A 		= 4.26; 			// значення агрументу a
+const MATH_FUNC_H_ARG_B 		= 7.29; 			// значення агрументу b
 const MATH_FUNC_H_COND_ARG_A 		= 8.3;				// значення агрументу a в умові
 const MATH_FUNC_H_COND_ARG_B 		= 6.8;				// значення агрументу b в умові
 const MATH_FUNC_H_RESULT_TEXT 		= "Математична функція h є ";	// Текст результату
