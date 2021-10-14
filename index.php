@@ -6,7 +6,7 @@ const MATH_FUNC_H_COND_ARG_A 		= 8.3;				// значення агрументу 
 const MATH_FUNC_H_COND_ARG_B 		= 6.8;				// значення агрументу b в умові
 const MATH_FUNC_H_RESULT_TEXT 		= "Математична функція h є ";	// Текст результату
 const MATH_FUNC_H_RESULT_TRUE_TEXT 	= "дійсною";			// Текст результату дійсності
-const MATH_FUNC_H_RESULT_FALSE_TEXT = "не дійсною<br>";			// Текст результату не дійстності
+const MATH_FUNC_H_RESULT_FALSE_TEXT 	= "не дійсною<br>";		// Текст результату не дійстності
 
 // Налаштування для математичної функції z
 const MATH_FUNC_Z_ARG_A 		= 1.6; 							// значення агрументу a
