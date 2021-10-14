@@ -9,8 +9,8 @@ const MATH_FUNC_H_RESULT_TRUE_TEXT 	= "дійсною";			// Текст резу
 const MATH_FUNC_H_RESULT_FALSE_TEXT = "не дійсною<br>";			// Текст результату не дійстності
 
 // Налаштування для математичної функції z
-const MATH_FUNC_Z_ARG_A 			= 1.6; 						// значення агрументу a
-const MATH_FUNC_Z_ARG_B 			= 14.3; 					// значення агрументу b
+const MATH_FUNC_Z_ARG_A 		= 1.6; 							// значення агрументу a
+const MATH_FUNC_Z_ARG_B 		= 14.3; 						// значення агрументу b
 const MATH_FUNC_Z_MIN_ARG_RANGE_T 	= 2.75;							// мінімальне значення діапазону для аргументу t
 const MATH_FUNC_Z_MAX_ARG_RANGE_T 	= 5.0;							// максимальне значення діапазону для аргументу t
 const MATH_FUNC_Z_ITERATIONS_COUNT 	= 9;							// кількість ітерацій параметру t
